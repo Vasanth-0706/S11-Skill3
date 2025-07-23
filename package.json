@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vasanth-0706.github.io/S11-Skill3",
+  "homepage": "https://Vasanth-0706.github.io/S111-Skill3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

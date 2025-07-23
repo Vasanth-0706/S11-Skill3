@@ -45,4 +45,4 @@ jobs:
           git config --global user.name "Vasanth-0706"
           git config --global user.email "vasanthcisco07@gmail.com"
           npm install -g gh-pages
-          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/Vasanth-0706/S11-Skill3.git
+          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/Vasanth-0706/S111-Skill3.git
